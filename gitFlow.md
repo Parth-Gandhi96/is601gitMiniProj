@@ -27,3 +27,12 @@ Any feature once finished developing and are ready according to planned will get
 Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the develop branch when they’re ready for release. Feature branches will be of developing New features and non-emergency bug fixes.
 
 ![image4](images/gitflow_1.PNG)
+
+### Key Benefits
+* Parallel Development
+* Collaboration
+* Release Staging Area
+* Support For Emergency Fixes
+
+**For more Information on Git flow:**
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
