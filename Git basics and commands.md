@@ -1,27 +1,37 @@
 ## Git Terminology 
 - Repository:
 Contains all project files and the revision history for every file. A repository can be owned individually or can be used in collaboration with other people in an organization and can be public or private.
+![image1](images/create_repo.PNG)
 
 - Clone:
-A command that is used to make a copy of an existing repository, including all files, branches, and commits to your local computer. By cloning the user is permitted to edit files and can use Git to monitor all changes without having to be online. 
+A command that is used to make a copy of an existing repository, including all files, branches, and commits to your local computer. By cloning the user is permitted to edit files and can use Git to monitor all changes without having to be online.
+![image1](images/clone_repo.PNG) 
  
 - Fork:
 A copy of another users repository that allows an induvial to make changes that do not affect the original project.
- 
+
+
 - Branch:
 An independent line of development which allows users to continue making modification without affecting the original repository. Once all modifications are made the user can merge the branch into the master branch to publish the changes made. 
+![image1](images/git_branches.png)
 
 - Commit:
 Is a record of any revisions to a file or set of files.  Each commit is assigned a hash that helps in identifying the specific changes, when they changes were made, and who created the changes. 
+![image1](images/git_commit_push.png)
 
 - Merge:
 A command that allows a user to take the independent lines of development (branch(s)) in the same repository or from a fork and integrate them into another single branch.
+![image1](images/git_merge.png)
 
 - Checkout:
 The act of navigating between branches or previous commits. 
 
 - Push:
 A Command that is used to send recent commits from your local repository to a remote repository.
+![image1](images/git_push.png)
+
+From particular local branch to particular remote branch (if not exist, it will create new one) 
+![image1](images/git_push_sr_to.png)
 
 - Pull:
 A command that is used to download changes from a remote repository to update a user’s local repository to match that content. For example, if a user makes changes to the remote repository that you are collaborating on, you can pull in those changes to your local file so that it is up to date.  
@@ -37,13 +47,15 @@ Disconnects a remote from a local repository.
 
 - Remote Show: 
 A command that allows a user to see which remotes are currently connected as well as allowing the user to add new connections or remove existing ones. 
+![image1](images/git_remote_show.PNG)
 
 - Status:
 A command used to check the current state of the repository. The command also displays modification in your local files that have not been committed to the repository and lets the user see which branch is active and if there are any commits that are not synced to its remote counterpart. 
+![image1](images/git_status.png)
 
 - Master Branch:
 A default branch that points to the last commit that is made by a user. Every time a user commit’s the master branch pointer automatically moves forward. 
-
+![image1](images/git_main_branch.PNG)
 
 
 ## Git basic Commands:
