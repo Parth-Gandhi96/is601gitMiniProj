@@ -56,4 +56,14 @@ A default branch that points to the last commit that is made by a user. Every ti
  | ```git clone ssh://git@github.com/[username]/[repository-name].git```   | Create a local copy of a remote repositorysitory |
 
 
+
+**Status, File Adding, and Commit**
+|Command	|Description|
+|```git status```	| Checks status|
+|```git add [file-name.txt]```	| Add a file to the staging area|
+|```git add -A```	| Add all new and changed files to the staging area|
+|```git commit -m "[commit message]"```	| Commit changes|
+
+
+
  
