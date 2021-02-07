@@ -1,1 +1,1 @@
-# is601gitMiniProj
+# IS 601 Mini Project - Git Collab
