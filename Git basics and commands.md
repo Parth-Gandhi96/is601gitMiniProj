@@ -59,6 +59,7 @@ A default branch that points to the last commit that is made by a user. Every ti
 
 **Status, File Adding, and Commit**
 |Command	|Description|
+| ----------| --------------|
 |```git status```	| Checks status|
 |```git add [file-name.txt]```	| Add a file to the staging area|
 |```git add -A```	| Add all new and changed files to the staging area|
