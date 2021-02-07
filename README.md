@@ -8,3 +8,6 @@
 - [ ] Explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
 - [ ] gitFlow : https://datasift.github.io/gitflow/IntroducingGitFlow.html
 - [ ] Github basics and commands
+
+## Explaination:
+[Explainatio : How the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.](Git Docker Automated testing Continuous integration.md)
