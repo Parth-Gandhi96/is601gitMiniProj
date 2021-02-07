@@ -52,8 +52,8 @@ A default branch that points to the last commit that is made by a user. Every ti
 
  | Command   | Description   |
  | ----------| --------------|
- | git init  | Initialize a local Git repo |
- | git clone ssh://git@github.com/[username]/[repository-name].git   | | ssh://git@github.com/[username]/[repository-name].git	Create a local copy of a remote repositorysitory |
+ | ```git init```  | Initialize a local Git repo |
+ | ```git clone ssh://git@github.com/[username]/[repository-name].git```   | Create a local copy of a remote repositorysitory |
 
 
  
