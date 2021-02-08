@@ -39,6 +39,7 @@ Automated testing is done through an automation tool, so more time can be spent 
 
 ### Continuous integration:
 It involves multiple steps before integrating the changes commited by developers into the shared code of product. The steps involves- identifing the changes, building the whole source code including the update, running test cases and finally generating the status report, if all successful then report also include the performance of code after integration and quality of the new source code. This way any new update on source code for product will be safe and continuously in check before integrating it to the final version of code. Nowadays it is almost very common pratice in any company that has development department.
+
 **For more information about Continuous integration**
 
 - https://www.katalon.com/resources-center/blog/ci-cd-introduction/
