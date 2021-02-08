@@ -29,10 +29,19 @@ Feature branches are branched off of the develop branch, and finished features a
 ![image4](images/gitflow_1.PNG)
 
 ### Key Benefits
-* Parallel Development
-* Collaboration
-* Release Staging Area
-* Support For Emergency Fixes
+
+* Parallel Development : 
+Differnt developers can take work on different or same feature for the same product with same source code at the same time. 
+
+* Collaboration : 
+Multiple developers working on features of particular product, can merge their code and test it on same plateform. Decentralized but centralized.
+
+* Release Staging Area : 
+Staging area is collection of developed features which are yet to get released. These process between releasing feature in next release is decided based on multiple parameteres such as - test passed, requirement satisfied, quality of source code etc.
+
+* Support For Emergency Fixes : 
+GitFlow supports hotfix branches - only contain your emergency fix. There’s no risk that you’ll accidentally merge in new development at the same time.
 
 **For more Information on Git flow:**
+
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
